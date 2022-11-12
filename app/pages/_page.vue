@@ -1,6 +1,7 @@
 <template>
   <section class="page" :class="page.slug">
     <h1 class="page__title text-lg md:text-xl lg:text-4xl xl:text-6xl text-center py-8 md:py-16">
+      # Yo, COOPER! Sup dawg.\n\nWell, I am trying to set up a website to host java.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII
       {{ page.title }}
     </h1>
 
